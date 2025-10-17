@@ -1,0 +1,11 @@
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\bin\Debug\net9.0\SchoolEdu.Domain.deps.json
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\bin\Debug\net9.0\SchoolEdu.Domain.dll
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\bin\Debug\net9.0\SchoolEdu.Domain.pdb
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\obj\Debug\net9.0\SchoolEdu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\obj\Debug\net9.0\SchoolEdu.Domain.AssemblyInfoInputs.cache
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\obj\Debug\net9.0\SchoolEdu.Domain.AssemblyInfo.cs
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\obj\Debug\net9.0\SchoolEdu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\obj\Debug\net9.0\SchoolEdu.Domain.dll
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\obj\Debug\net9.0\refint\SchoolEdu.Domain.dll
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\obj\Debug\net9.0\SchoolEdu.Domain.pdb
+C:\Users\elion.komoni\Documents\C#net\Inlämningsupgift\SchoolEdu\SchoolEdu.Domain\obj\Debug\net9.0\ref\SchoolEdu.Domain.dll

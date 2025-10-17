@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SchoolEdu.Client/1.0.0": {
+        "dependencies": {
+          "SchoolEdu.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SchoolEdu.Client.dll": {}
+        }
+      },
+      "SchoolEdu.Domain/1.0.0": {
+        "runtime": {
+          "SchoolEdu.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SchoolEdu.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SchoolEdu.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
